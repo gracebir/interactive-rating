@@ -19,7 +19,7 @@ const Rate = ({rate, setRate}) => {
         </div>
         <div className='flex flex-col lg:gap-6 gap-4'>
           <h1 className="text-white font-bold text-2xl lg:text-3xl">How did we do?</h1>
-          <p className='text-grey'>
+          <p className='text-grey leading-7'>
             Please let us know how we did with your support
             request. All feedback is appreciated
             to help us improve our offering!
