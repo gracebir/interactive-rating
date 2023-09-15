@@ -16,6 +16,7 @@ export default {
         orange: "var(--color-orange)",
         grey: "var(--color-grey)",
         "medium-grey": "var(--color-medium-grey)",
+        round: "var(--color-round)"
       }
     },
   },
